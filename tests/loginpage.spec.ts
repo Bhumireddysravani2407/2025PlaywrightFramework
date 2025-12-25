@@ -2,7 +2,7 @@ import { LoginPage } from '../pages/LoginPage';
 import { test, expect } from '../fixtures/baseFixtures';
 
 
-test('verify valid login @login',
+test('verify valid login @login@register',
     {
         annotation: [
             { type: 'epic', description: 'EPIC 100 - Design login page for Open Cart App' },
